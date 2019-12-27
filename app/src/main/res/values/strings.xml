@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Player List</string>
+    <string name="player_name">Nama Pemain</string>
+    <string name="player_position">Posisi Main</string>
+    <string name="player_date_birth">Tanggal Lahir</string>
+    <string name="national">Negara</string>
+    <string name="profile">Profile Player</string>
+    <string name="contoh">Contoh</string>
+    <string name="about">About</string>
+    <string name="nama">Ali Zainal Abidin</string>
+    <string name="email">bidinthedon@gmail.com</string>
+</resources>
